@@ -1,0 +1,5 @@
+﻿  Application.cpp
+  WinMain.cpp
+C:\Users\김민규\OneDrive\바탕 화면\GameEngin\GameEngine\GameEngine\WinMain.cpp(5,14): error C2731: 'wWinMain': 함수를 오버로드할 수 없습니다.
+C:\Users\김민규\OneDrive\바탕 화면\GameEngin\GameEngine\GameEngine\WinMain.cpp(5): message : 'wWinMain' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
